@@ -21,9 +21,9 @@ The booking system aims to provide a user-friendly interface for center owners a
 <img width="200" height="500" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/b655cc38-0a66-485c-9faa-1524d3a202a4" align="center"     />
 <img width="200" height="500" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/f732bd18-15e7-4c8b-a58f-a3617b8bf6b7" align="center"     /><br><br>
     
-<img width="200" height="500" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/b5ec7ec3-8acf-4ae3-8601-1d1c1e5f6601" align="center"     />
-<img width="200" height="500" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/3aa40875-1c31-491c-bb10-a92fa2b41df5" align="center"     />
-<img width="200" height="500" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/b6c73fc7-2e09-4d7a-8bff-9836f7345c4f" align="center"     /><br><br>
+<img width="227" height="553" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/b5ec7ec3-8acf-4ae3-8601-1d1c1e5f6601" align="center"     />
+<img width="227" height="553" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/3aa40875-1c31-491c-bb10-a92fa2b41df5" align="center"     />
+<img width="227" height="553" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/b6c73fc7-2e09-4d7a-8bff-9836f7345c4f" align="center"     /><br><br>
     
 <img width="213" height="521" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/ddd1733d-3312-42bc-90e8-d8252a3d47b7" align="center"     />
 <img width="213" height="521" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/5c4d67d4-a639-452f-9486-477341fb3dcd" align="center"     />
