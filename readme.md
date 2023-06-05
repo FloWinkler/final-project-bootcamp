@@ -33,10 +33,10 @@ The booking system aims to provide a user-friendly interface for center owners a
 <img width="256" height="625" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/c8bb6fc7-5f5f-4bb8-8989-ed4b4e8aa83e" align="center"     />
 <img width="256" height="625" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/6cf9e5fe-5b8f-46eb-a9c2-87f4ce057d5a" align="center"     /><br><br>
     
-<img width="194" height="490" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/b78091ae-9659-41e2-b6af-4081acd5a9de" align="center"     />
-<img width="194" height="490" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/6b4f11e5-bce2-4d5d-82e8-792ef6c2b9cb" align="center"     />
-<img width="194" height="490" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/4e2fceca-562c-4788-93eb-3a98ccac19cd" align="center"     />
-<img width="194" height="490" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/0130dadb-0a57-4530-bf95-ea09cad72ea9" align="center"     /><br><br>
+<img width="192" height="490" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/b78091ae-9659-41e2-b6af-4081acd5a9de" align="center"     />
+<img width="192" height="490" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/6b4f11e5-bce2-4d5d-82e8-792ef6c2b9cb" align="center"     />
+<img width="192" height="490" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/4e2fceca-562c-4788-93eb-3a98ccac19cd" align="center"     />
+<img width="192" height="490" alt="x" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/0130dadb-0a57-4530-bf95-ea09cad72ea9" align="center"     /><br><br>
     
 <img width="388" height="280" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/61d6bb17-a913-4391-9b80-cff7da71220e" align="center"     />
 <img width="388" height="280" src="https://github.com/FloWinkler/final-project-bootcamp/assets/135036974/b7ff08b0-98e2-4a78-a789-07bfa656f8f8" align="center"     /><br><br>
