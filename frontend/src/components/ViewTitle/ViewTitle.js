@@ -2,6 +2,7 @@ import { ViewTitleContainer } from "./ViewTitleStyles"
 
 const ViewTitle = ({title}) => {
 
+  
   return (
     <ViewTitleContainer>{title}</ViewTitleContainer>
   );
